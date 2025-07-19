@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Store.G04.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Store.G04.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Store.G04.Core.dll": {}
+        }
+      },
+      "Store.G04.Repositpory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Store.G04.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Store.G04.Repositpory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Store.G04.Repositpory.dll": {}
+        }
+      },
+      "Store.G04.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Store.G04.Repositpory": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Store.G04.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Store.G04.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Store.G04.Core/1.0.0": {
+      "type": "project",
+      "path": "../Store.G04.Core/Store.G04.Core.csproj",
+      "msbuildProject": "../Store.G04.Core/Store.G04.Core.csproj"
+    },
+    "Store.G04.Repositpory/1.0.0": {
+      "type": "project",
+      "path": "../Store.G04.Repositpory/Store.G04.Repositpory.csproj",
+      "msbuildProject": "../Store.G04.Repositpory/Store.G04.Repositpory.csproj"
+    },
+    "Store.G04.Service/1.0.0": {
+      "type": "project",
+      "path": "../Store.G04.Service/Store.G04.Service.csproj",
+      "msbuildProject": "../Store.G04.Service/Store.G04.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Store.G04.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\connect\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Store.G04.APIs.csproj",
+      "projectName": "Store.G04.APIs",
+      "projectPath": "E:\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Store.G04.APIs.csproj",
+      "packagesPath": "C:\\Users\\connect\\.nuget\\packages\\",
+      "outputPath": "E:\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\connect\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "E:\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Service\\Store.G04.Service.csproj": {
+              "projectPath": "E:\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Service\\Store.G04.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

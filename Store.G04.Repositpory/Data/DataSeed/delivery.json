@@ -1,0 +1,98 @@
+[
+  {
+    "ShortName": "UPS1",
+    "Description": "أسرع وقت للتوصيل",
+    "DeliveryTime": "1-2 يوم",
+    "Cost": 10
+  },
+  {
+    "ShortName": "UPS2",
+    "Description": "يصلك خلال 5 أيام",
+    "DeliveryTime": "2-5 أيام",
+    "Cost": 5
+  },
+  {
+    "ShortName": "UPS3",
+    "Description": "أبطأ ولكن الأرخص",
+    "DeliveryTime": "5-10 أيام",
+    "Cost": 2
+  },
+  {
+    "ShortName": "FREE",
+    "Description": "مجاني! ستحصل على خدمة توازي التكلفة",
+    "DeliveryTime": "1-2 أسبوع",
+    "Cost": 0
+  },
+  {
+    "ShortName": "EXP1",
+    "Description": "توصيل فائق السرعة للخدمات المهمة",
+    "DeliveryTime": "12-24 ساعة",
+    "Cost": 20
+  },
+  {
+    "ShortName": "ECO",
+    "Description": "خدمة اقتصادية وصديقة للبيئة",
+    "DeliveryTime": "7-10 أيام",
+    "Cost": 3
+  },
+  {
+    "ShortName": "PRIORITY",
+    "Description": "أولوية التوصيل لضمان التسليم في الموعد المحدد",
+    "DeliveryTime": "1-3 أيام",
+    "Cost": 8
+  },
+  {
+    "ShortName": "LOCAL",
+    "Description": "توصيل محلي سريع",
+    "DeliveryTime": "1 يوم",
+    "Cost": 4
+  },
+  {
+    "ShortName": "INTL",
+    "Description": "شحن دولي بأسعار تنافسية",
+    "DeliveryTime": "5-15 يوم",
+    "Cost": 15
+  },
+  {
+    "ShortName": "NIGHT",
+    "Description": "خدمة توصيل ليلية مميزة",
+    "DeliveryTime": "12 ساعة",
+    "Cost": 12
+  },
+  {
+    "ShortName": "PREMIUM",
+    "Description": "خدمة توصيل شاملة للعملاء المميزين",
+    "DeliveryTime": "1-2 يوم",
+    "Cost": 25
+  },
+  {
+    "ShortName": "FASTTRACK",
+    "Description": "خدمة توصيل بأولوية فائقة",
+    "DeliveryTime": "6-12 ساعة",
+    "Cost": 30
+  },
+  {
+    "ShortName": "BUDGET",
+    "Description": "خدمة اقتصادية بأقل تكلفة ممكنة",
+    "DeliveryTime": "10-15 يوم",
+    "Cost": 1
+  },
+  {
+    "ShortName": "GREEN",
+    "Description": "توصيل صديق للبيئة باستخدام مركبات كهربائية",
+    "DeliveryTime": "3-7 أيام",
+    "Cost": 6
+  },
+  {
+    "ShortName": "EXPRESSPLUS",
+    "Description": "توصيل سريع ومضمون خلال 24 ساعة",
+    "DeliveryTime": "24 ساعة",
+    "Cost": 18
+  },
+  {
+    "ShortName": "VIP",
+    "Description": "خدمة مخصصة لكبار العملاء",
+    "DeliveryTime": "1-2 يوم",
+    "Cost": 50
+  }
+]

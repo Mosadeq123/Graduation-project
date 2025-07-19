@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C11DBB82-EA74-4E52-89AE-761C2F74B02E}|Store.G04.APIs\\Store.G04.APIs.csproj|c:\\users\\mohammed nageh\\downloads\\trecoo\\trecoo\\store.g04\\store.g04.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11DBB82-EA74-4E52-89AE-761C2F74B02E}|Store.G04.APIs\\Store.G04.APIs.csproj|solutionrelative:store.g04.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11DBB82-EA74-4E52-89AE-761C2F74B02E}|Store.G04.APIs\\Store.G04.APIs.csproj|c:\\users\\mohammed nageh\\downloads\\trecoo\\trecoo\\store.g04\\store.g04.apis\\helper\\configuremiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11DBB82-EA74-4E52-89AE-761C2F74B02E}|Store.G04.APIs\\Store.G04.APIs.csproj|solutionrelative:store.g04.apis\\helper\\configuremiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11DBB82-EA74-4E52-89AE-761C2F74B02E}|Store.G04.APIs\\Store.G04.APIs.csproj|c:\\users\\mohammed nageh\\downloads\\trecoo\\trecoo\\store.g04\\store.g04.apis\\controllers\\rawmaterialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11DBB82-EA74-4E52-89AE-761C2F74B02E}|Store.G04.APIs\\Store.G04.APIs.csproj|solutionrelative:store.g04.apis\\controllers\\rawmaterialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|c:\\users\\mohammed nageh\\downloads\\trecoo\\trecoo\\store.g04\\store.g04.core\\dtos\\rawmaterials\\rawmaterialwithimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|solutionrelative:store.g04.core\\dtos\\rawmaterials\\rawmaterialwithimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|c:\\users\\mohammed nageh\\downloads\\trecoo\\trecoo\\store.g04\\store.g04.core\\dtos\\rawmaterials\\rawmaterialdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|solutionrelative:store.g04.core\\dtos\\rawmaterials\\rawmaterialdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|c:\\users\\mohammed nageh\\downloads\\trecoo\\trecoo\\store.g04\\store.g04.core\\dtos\\rawmaterials\\machinedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|solutionrelative:store.g04.core\\dtos\\rawmaterials\\machinedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|c:\\users\\mohammed nageh\\downloads\\trecoo\\trecoo\\store.g04\\store.g04.core\\mapping\\rawmaterials\\rawmaterialsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|solutionrelative:store.g04.core\\mapping\\rawmaterials\\rawmaterialsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11DBB82-EA74-4E52-89AE-761C2F74B02E}|Store.G04.APIs\\Store.G04.APIs.csproj|c:\\users\\mohammed nageh\\downloads\\trecoo\\trecoo\\store.g04\\store.g04.apis\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11DBB82-EA74-4E52-89AE-761C2F74B02E}|Store.G04.APIs\\Store.G04.APIs.csproj|solutionrelative:store.g04.apis\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11DBB82-EA74-4E52-89AE-761C2F74B02E}|Store.G04.APIs\\Store.G04.APIs.csproj|c:\\users\\mohammed nageh\\downloads\\trecoo\\trecoo\\store.g04\\store.g04.apis\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11DBB82-EA74-4E52-89AE-761C2F74B02E}|Store.G04.APIs\\Store.G04.APIs.csproj|solutionrelative:store.g04.apis\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|c:\\users\\mohammed nageh\\downloads\\trecoo\\trecoo\\store.g04\\store.g04.core\\entities\\machineentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|solutionrelative:store.g04.core\\entities\\machineentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|c:\\users\\mohammed nageh\\downloads\\trecoo\\trecoo\\store.g04\\store.g04.core\\entities\\rawmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDBA219-EFCA-4160-BA87-874CE8EA0FB9}|Store.G04.Core\\Store.G04.Core.csproj|solutionrelative:store.g04.core\\entities\\rawmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigureMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Helper\\ConfigureMiddleware.cs",
+              "RelativeDocumentMoniker": "Store.G04.APIs\\Helper\\ConfigureMiddleware.cs",
+              "ToolTip": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Helper\\ConfigureMiddleware.cs",
+              "RelativeToolTip": "Store.G04.APIs\\Helper\\ConfigureMiddleware.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:02:40.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "Store.G04.APIs\\Program.cs",
+              "ToolTip": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Program.cs*",
+              "RelativeToolTip": "Store.G04.APIs\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:01:14.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RawMaterialWithImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Dtos\\RawMaterials\\RawMaterialWithImageDto.cs",
+              "RelativeDocumentMoniker": "Store.G04.Core\\Dtos\\RawMaterials\\RawMaterialWithImageDto.cs",
+              "ToolTip": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Dtos\\RawMaterials\\RawMaterialWithImageDto.cs",
+              "RelativeToolTip": "Store.G04.Core\\Dtos\\RawMaterials\\RawMaterialWithImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:31:07.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MachineDtos.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Dtos\\RawMaterials\\MachineDtos.cs",
+              "RelativeDocumentMoniker": "Store.G04.Core\\Dtos\\RawMaterials\\MachineDtos.cs",
+              "ToolTip": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Dtos\\RawMaterials\\MachineDtos.cs",
+              "RelativeToolTip": "Store.G04.Core\\Dtos\\RawMaterials\\MachineDtos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:49:30.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RawMaterialsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Mapping\\RawMaterials\\RawMaterialsProfile.cs",
+              "RelativeDocumentMoniker": "Store.G04.Core\\Mapping\\RawMaterials\\RawMaterialsProfile.cs",
+              "ToolTip": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Mapping\\RawMaterials\\RawMaterialsProfile.cs",
+              "RelativeToolTip": "Store.G04.Core\\Mapping\\RawMaterials\\RawMaterialsProfile.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:44:02.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RawMaterialsController.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Controllers\\RawMaterialsController.cs",
+              "RelativeDocumentMoniker": "Store.G04.APIs\\Controllers\\RawMaterialsController.cs",
+              "ToolTip": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Controllers\\RawMaterialsController.cs",
+              "RelativeToolTip": "Store.G04.APIs\\Controllers\\RawMaterialsController.cs",
+              "ViewState": "AgIAADAAAADAzMzMzMwhwFMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:00:13.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RawMaterialDtos.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Dtos\\RawMaterials\\RawMaterialDtos.cs",
+              "RelativeDocumentMoniker": "Store.G04.Core\\Dtos\\RawMaterials\\RawMaterialDtos.cs",
+              "ToolTip": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Dtos\\RawMaterials\\RawMaterialDtos.cs",
+              "RelativeToolTip": "Store.G04.Core\\Dtos\\RawMaterials\\RawMaterialDtos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:00:00.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MachineController.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Controllers\\MachineController.cs",
+              "RelativeDocumentMoniker": "Store.G04.APIs\\Controllers\\MachineController.cs",
+              "ToolTip": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Controllers\\MachineController.cs",
+              "RelativeToolTip": "Store.G04.APIs\\Controllers\\MachineController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAqwIUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:16:58.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Store.G04.APIs\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.APIs\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Store.G04.APIs\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:14:48.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MachineEntity.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Entities\\MachineEntity.cs",
+              "RelativeDocumentMoniker": "Store.G04.Core\\Entities\\MachineEntity.cs",
+              "ToolTip": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Entities\\MachineEntity.cs",
+              "RelativeToolTip": "Store.G04.Core\\Entities\\MachineEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:48:29.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RawMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Entities\\RawMaterial.cs",
+              "RelativeDocumentMoniker": "Store.G04.Core\\Entities\\RawMaterial.cs",
+              "ToolTip": "C:\\Users\\MOHAMMED NAGEH\\Downloads\\Trecoo\\Trecoo\\Store.G04\\Store.G04.Core\\Entities\\RawMaterial.cs",
+              "RelativeToolTip": "Store.G04.Core\\Entities\\RawMaterial.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:59:41.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

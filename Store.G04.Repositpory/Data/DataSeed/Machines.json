@@ -1,0 +1,209 @@
+[
+  {
+    "NameMachine": "فرو",
+    "Description": "آلة الفرو تستخدم في تصنيع الأقمشة الفاخرة الدافئة التي تُستخدم في الملابس الشتوية والمعاطف.",
+    "NeedlesCount": "2500 إبرة",
+    "MachineType": "آلة الخياطة",
+    "Softness": "28",
+    "Width": "32",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-1166253608-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "جكاردبل",
+    "Description": "آلة الجكاردبل تستخدم في إنتاج الأقمشة المزخرفة بتصميمات معقدة، مثالية لصناعة الأثاث والستائر.",
+    "NeedlesCount": "2200 إبرة",
+    "MachineType": "آلة الجاكارد",
+    "Softness": "30",
+    "Width": "35",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-1166585473-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "جكاد",
+    "Description": "آلة الجكاد تقوم بنسج الأقمشة المزخرفة ذات التصاميم المعقدة التي تستخدم في الملابس الفاخرة.",
+    "NeedlesCount": "2400 إبرة",
+    "MachineType": "نول الجاكارد",
+    "Softness": "35",
+    "Width": "33",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-1190467143-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "سنجل",
+    "Description": "آلة السنجل تتميز بالقوة والمتانة وتستخدم بشكل رئيسي في تصنيع الملابس الرياضية.",
+    "NeedlesCount": "2300 إبرة",
+    "MachineType": "آلة الإبرة الواحدة",
+    "Softness": "32",
+    "Width": "28",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-1292734387-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "ديب",
+    "Description": "آلة الديب تستخدم في إنتاج الأقمشة ذات الغرز العميقة، مما يجعلها مثالية لصناعة الملابس المريحة.",
+    "NeedlesCount": "2600 إبرة",
+    "MachineType": "آلة الغرز العميقة",
+    "Softness": "28",
+    "Width": "34",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-1335033455-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "ميلتون فليس",
+    "Description": "آلة ميلتون فليس مخصصة لإنتاج الأقمشة الفاخرة الدافئة التي تُستخدم في صناعة الملابس الشتوية والبطانيات.",
+    "NeedlesCount": "2800 إبرة",
+    "MachineType": "آلة الفليس",
+    "Softness": "25",
+    "Width": "31",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-1337951597-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "انترلوك",
+    "Description": "آلة انترلوك تستخدم في إنتاج الأقمشة المرنة التي تُستخدم في صناعة الملابس الداخلية والملابس الرياضية.",
+    "NeedlesCount": "2500 إبرة",
+    "MachineType": "آلة الانترلوك",
+    "Softness": "30",
+    "Width": "30",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-1344430137-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "بلوش",
+    "Description": "آلة بلوش تستخدم في تصنيع الأقمشة الفاخرة التي تتميز بمظهرها الراقي، ويُستخدم في تصميم الفساتين الأنيقة.",
+    "NeedlesCount": "2700 إبرة",
+    "MachineType": "آلة الخياطة",
+    "Softness": "28",
+    "Width": "36",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-455660435-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "جوبلان",
+    "Description": "آلة الجوبلان تُستخدم في إنتاج الأقمشة المزخرفة والأنماط الجميلة التي تستخدم في الأثاث والملابس.",
+    "NeedlesCount": "2500 إبرة",
+    "MachineType": "آلة النسج",
+    "Softness": "27",
+    "Width": "33",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-463804265-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "سجاد",
+    "Description": "آلة السجاد تستخدم في تصنيع السجاد والموكيت باستخدام الخيوط المختلفة لإنشاء تصاميم معقدة.",
+    "NeedlesCount": "2800 إبرة",
+    "MachineType": "آلة السجاد",
+    "Softness": "33",
+    "Width": "40",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-465553479-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "موازي",
+    "Description": "آلة الموازي تستخدم في تصنيع الأقمشة ذات الجودة العالية والمثالية لصناعة الملابس الرسمية.",
+    "NeedlesCount": "2500 إبرة",
+    "MachineType": "آلة الموازي",
+    "Softness": "32",
+    "Width": "38",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-484760223-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "تريكو",
+    "Description": "آلة التريكو تستخدم في تصنيع الأقمشة المنسوجة بنمط معين، وتُستخدم في صناعة الملابس اليومية.",
+    "NeedlesCount": "2300 إبرة",
+    "MachineType": "آلة تريكو",
+    "Softness": "29",
+    "Width": "36",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-484778556-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "ميني",
+    "Description": "آلة الميني تستخدم في إنتاج الأقمشة الصغيرة الحجم التي تُستخدم في الملابس النسائية والأطفال.",
+    "NeedlesCount": "2400 إبرة",
+    "MachineType": "آلة ميني",
+    "Softness": "31",
+    "Width": "28",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-484778558-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "مركب",
+    "Description": "آلة المركب تُستخدم في تصنيع الأقمشة المركبة التي تجمع بين أنواع مختلفة من الأقمشة لتوفير قوة إضافية.",
+    "NeedlesCount": "2600 إبرة",
+    "MachineType": "آلة المركب",
+    "Softness": "27",
+    "Width": "32",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-484778562-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "شاجي",
+    "Description": "آلة الشاجي تستخدم في تصنيع الأقمشة المزخرفة والأنماط المميزة، وتُستخدم بشكل رئيسي في صناعة الملابس الخاصة.",
+    "NeedlesCount": "2700 إبرة",
+    "MachineType": "آلة الشاجي",
+    "Softness": "30",
+    "Width": "29",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-484796074-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "تركي",
+    "Description": "آلة التركي تستخدم في تصنيع الأقمشة ذات الحواف النظيفة والتصاميم الرائعة التي تُستخدم في صناعة الملابس الراقية.",
+    "NeedlesCount": "2800 إبرة",
+    "MachineType": "آلة التركي",
+    "Softness": "26",
+    "Width": "35",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-484796104-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "كاميرا",
+    "Description": "آلة الكاميرا تستخدم في تصنيع الأقمشة الخاصة بالأزياء الحديثة والتي تتطلب تقنيات متقدمة في الخياطة.",
+    "NeedlesCount": "2500 إبرة",
+    "MachineType": "آلة الكاميرا",
+    "Softness": "33",
+    "Width": "37",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-484897916-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "ديكورات",
+    "Description": "آلة الديكورات تُستخدم في صناعة الأقمشة المزخرفة التي تتميز بتصاميم جميلة ومثالية للديكورات الداخلية.",
+    "NeedlesCount": "2200 إبرة",
+    "MachineType": "آلة الديكور",
+    "Softness": "31",
+    "Width": "30",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-487176448-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "أردني",
+    "Description": "آلة الأردني تستخدم في إنتاج الأقمشة المصنوعة من خيوط عالية الجودة التي تُستخدم في الملابس الراقية.",
+    "NeedlesCount": "2600 إبرة",
+    "MachineType": "آلة الأردني",
+    "Softness": "30",
+    "Width": "34",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-487181122-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "مودرن",
+    "Description": "آلة المودرن تُستخدم في إنتاج الأقمشة ذات التصاميم الحديثة والتقنيات المتقدمة.",
+    "NeedlesCount": "2400 إبرة",
+    "MachineType": "آلة المودرن",
+    "Softness": "28",
+    "Width": "32",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-868253518-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "موازي بيبل",
+    "Description": "آلة الموازي بيبل تُستخدم في تصنيع الأقمشة التي تتسم بالجودة العالية والمتانة.",
+    "NeedlesCount": "2500 إبرة",
+    "MachineType": "آلة بيبل",
+    "Softness": "27",
+    "Width": "30",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-90898209-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "ريش",
+    "Description": "آلة الريش تستخدم في إنتاج الأقمشة ذات الملمس الناعم والفخم الذي يُستخدم في الملابس الفاخرة.",
+    "NeedlesCount": "2700 إبرة",
+    "MachineType": "آلة الريش",
+    "Softness": "30",
+    "Width": "36",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-948568518-1024x1024.jpg"
+  },
+  {
+    "NameMachine": "شراع",
+    "Description": "آلة الشراع تستخدم في تصنيع الأقمشة الخاصة بتصاميم الشراعات التي تُستخدم في الملابس السباحة.",
+    "NeedlesCount": "2300 إبرة",
+    "MachineType": "آلة الشراع",
+    "Softness": "28",
+    "Width": "31",
+    "PictureUrl": "Images\\ImageMachine\\istockphoto-982457252-1024x1024.jpg"
+  }
+]

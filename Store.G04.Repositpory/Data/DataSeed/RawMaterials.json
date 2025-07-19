@@ -1,0 +1,209 @@
+[
+  {
+    "MachineId": 1,
+    "NameMaterial": "بلوش",
+    "Description": "قماش بلوش يتميز بمظهره الفاخر، يُستخدم في تصميم الفساتين الأنيقة.",
+    "Quantity": "400 كجم",
+    "StitchLength": "33 سنتيمتر",
+    "YarnType": "جوت",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1035032606-1024x1024.jpg"
+  },
+  {
+    "MachineId": 2,
+    "NameMaterial": "ريب",
+    "Description": "قماش ريب يتميز بالمرونة والقوة، يستخدم في صناعة التيشرتات والجواكت.",
+    "Quantity": "300 كجم",
+    "StitchLength": "30 سنتيمتر",
+    "YarnType": "قطن مصري",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1128268233-1024x1024.jpg"
+  },
+  {
+    "MachineId": 3,
+    "NameMaterial": "دربى",
+    "Description": "خام دربى عالي الجودة، مناسب لصناعة الملابس الرسمية والمعاطف.",
+    "Quantity": "250 كجم",
+    "StitchLength": "32 سنتيمتر",
+    "YarnType": "صوف خفيف",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1131833137-1024x1024.jpg"
+  },
+  {
+    "MachineId": 4,
+    "NameMaterial": "برسولا",
+    "Description": "قماش برسولا مثالي لصناعة الملابس النسائية، يتميز بالنعومة والانسيابية.",
+    "Quantity": "200 كجم",
+    "StitchLength": "28 سنتيمتر",
+    "YarnType": "حرير طبيعي",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1198010586-1024x1024.jpg"
+  },
+  {
+    "MachineId": 5,
+    "NameMaterial": "ميلتون",
+    "Description": "خام ميلتون يستخدم في صناعة المعاطف الشتوية الثقيلة بفضل متانته.",
+    "Quantity": "500 كجم",
+    "StitchLength": "35 سنتيمتر",
+    "YarnType": "كشمير",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1254938312-1024x1024.jpg"
+  },
+  {
+    "MachineId": 6,
+    "NameMaterial": "بكوته",
+    "Description": "خام بكوته يتميز بالقوة والمتانة، يُستخدم في صناعة الملابس الرياضية.",
+    "Quantity": "100 كجم",
+    "StitchLength": "26 سنتيمتر",
+    "YarnType": "نيلون",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1280715153-1024x1024.jpg"
+  },
+  {
+    "MachineId": 7,
+    "NameMaterial": "روزتا",
+    "Description": "خام روزتا ناعم وخفيف، مثالي لصناعة الملابس الصيفية المريحة.",
+    "Quantity": "150 كجم",
+    "StitchLength": "27 سنتيمتر",
+    "YarnType": "قطن طويل التيلة",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1296048157-1024x1024.jpg"
+  },
+  {
+    "MachineId": 8,
+    "NameMaterial": "كردنيه",
+    "Description": "خام كردنيه مشهور بقوته ومقاومته للاهتراء، يُستخدم في صناعة الملابس العملية.",
+    "Quantity": "350 كجم",
+    "StitchLength": "31 سنتيمتر",
+    "YarnType": "خيوط صناعية",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1302962103-1024x1024.jpg"
+  },
+  {
+    "MachineId": 9,
+    "NameMaterial": "شامواه",
+    "Description": "قماش شامواه ناعم ودافئ، يستخدم في صناعة الجواكت الشتوية والأوشحة.",
+    "Quantity": "180 كجم",
+    "StitchLength": "29 سنتيمتر",
+    "YarnType": "قطن خالص",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1307753715-1024x1024.jpg"
+  },
+  {
+    "MachineId": 10,
+    "NameMaterial": "قماش فلانيل",
+    "Description": "قماش فلانيل يتميز بالنعومة والراحة، يستخدم في صناعة ملابس النوم.",
+    "Quantity": "220 كجم",
+    "StitchLength": "28 سنتيمتر",
+    "YarnType": "صوف طبيعي",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1314423816-1024x1024.jpg"
+  },
+  {
+    "MachineId": 11,
+    "NameMaterial": "تيبرو",
+    "Description": "خام تيبرو قوي ومتين، يستخدم في صناعة الحقائب والأحذية.",
+    "Quantity": "500 كجم",
+    "StitchLength": "34 سنتيمتر",
+    "YarnType": "بوليستر",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1340030638-1024x1024.jpg"
+  },
+  {
+    "MachineId": 12,
+    "NameMaterial": "كوردورا",
+    "Description": "قماش كوردورا يستخدم في صناعة الملابس العسكرية والحقائب القوية.",
+    "Quantity": "400 كجم",
+    "StitchLength": "36 سنتيمتر",
+    "YarnType": "نايلون شديد التحمل",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1349994205-1024x1024.jpg"
+  },
+  {
+    "MachineId": 13,
+    "NameMaterial": "مخمل",
+    "Description": "قماش مخمل ناعم وفاخر، يستخدم في صناعة الفساتين والمفروشات.",
+    "Quantity": "250 كجم",
+    "StitchLength": "30 سنتيمتر",
+    "YarnType": "حرير صناعي",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1364122329-1024x1024.jpg"
+  },
+  {
+    "MachineId": 14,
+    "NameMaterial": "متراب",
+    "Description": "قماش متراب يتميز بالقوة والصلابة، يستخدم في صناعة السترات والمعاطف الشتوية.",
+    "Quantity": "300 كجم",
+    "StitchLength": "32 سنتيمتر",
+    "YarnType": "بوليستر مخلوط",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1401571949-1024x1024.jpg"
+  },
+  {
+    "MachineId": 15,
+    "NameMaterial": "دانتيل",
+    "Description": "قماش دانتيل يتميز بجماله ورقته، يستخدم في صناعة الفساتين السهرة.",
+    "Quantity": "120 كجم",
+    "StitchLength": "25 سنتيمتر",
+    "YarnType": "حرير طبيعي",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1405460412-1024x1024.jpg"
+  },
+  {
+    "MachineId": 16,
+    "NameMaterial": "بوليستر",
+    "Description": "قماش بوليستر مرن وسهل العناية، يستخدم في الملابس الرياضية والأزياء اليومية.",
+    "Quantity": "550 كجم",
+    "StitchLength": "29 سنتيمتر",
+    "YarnType": "بوليستر مزيج",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-1493971978-1024x1024.jpg"
+  },
+  {
+    "MachineId": 17,
+    "NameMaterial": "نيوبرين",
+    "Description": "قماش نيوبرين يستخدم في صناعة الملابس الرياضية والتجهيزات التقنية.",
+    "Quantity": "600 كجم",
+    "StitchLength": "38 سنتيمتر",
+    "YarnType": "مطاط صناعي",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-509536856-1024x1024.jpg"
+  },
+  {
+    "MachineId": 18,
+    "NameMaterial": "نيلون",
+    "Description": "قماش نيلون خفيف وقوي، يستخدم في صناعة الحقائب والملابس الخارجية.",
+    "Quantity": "450 كجم",
+    "StitchLength": "30 سنتيمتر",
+    "YarnType": "نيلون",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-535443686-1024x1024.jpg"
+  },
+  {
+    "MachineId": 19,
+    "NameMaterial": "فلانيل",
+    "Description": "قماش فلانيل ناعم ودافئ، يستخدم في صناعة الملابس الشتوية.",
+    "Quantity": "350 كجم",
+    "StitchLength": "31 سنتيمتر",
+    "YarnType": "صوف صناعي",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-636818752-1024x1024.jpg"
+  },
+  {
+    "MachineId": 20,
+    "NameMaterial": "مخمل فخم",
+    "Description": "قماش مخمل فخم يناسب الفساتين الراقية والملابس الاحتفالية.",
+    "Quantity": "200 كجم",
+    "StitchLength": "28 سنتيمتر",
+    "YarnType": "حرير صناعي",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-656204340-1024x1024.jpg"
+  },
+  {
+    "MachineId": 21,
+    "NameMaterial": "أورغانزا",
+    "Description": "قماش أورغانزا شفاف وخفيف، يُستخدم في صناعة فساتين الزفاف والمناسبات.",
+    "Quantity": "100 كجم",
+    "StitchLength": "27 سنتيمتر",
+    "YarnType": "حرير طبيعي",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-866261330-1024x1024.jpg"
+  },
+  {
+    "MachineId": 22,
+    "NameMaterial": "ليزر",
+    "Description": "قماش ليزر يتميز بتقنية الحفر بالليزر، يستخدم في صناعة الحقائب والموديلات العصرية.",
+    "Quantity": "250 كجم",
+    "StitchLength": "33 سنتيمتر",
+    "YarnType": "بوليستر",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-906310550-1024x1024.jpg"
+  },
+  {
+    "MachineId": 23,
+    "NameMaterial": "جيبر",
+    "Description": "قماش جيبر يتميز بالنعومة، يُستخدم في صناعة الملابس الداخلية والقمصان.",
+    "Quantity": "350 كجم",
+    "StitchLength": "29 سنتيمتر",
+    "YarnType": "قطن خالص",
+    "PictureUrl": "Images\\ImageRawMaterial\\istockphoto-937399854-1024x1024.jpg"
+  }
+]

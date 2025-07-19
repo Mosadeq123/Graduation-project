@@ -1,0 +1,45 @@
+D:/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Repositpory.deps.json
+D:/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Repositpory.dll
+D:/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Repositpory.pdb
+D:/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Core.dll
+D:/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Core.pdb
+D:/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.csproj.AssemblyReference.cache
+D:/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.GeneratedMSBuildEditorConfig.editorconfig
+D:/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.AssemblyInfoInputs.cache
+D:/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.AssemblyInfo.cs
+D:/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.csproj.CoreCompileInputs.cache
+D:/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G0.9686550A.Up2Date
+D:/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.dll
+D:/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/refint/Store.G04.Repositpory.dll
+D:/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.pdb
+D:/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/ref/Store.G04.Repositpory.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Repositpory.deps.json
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Repositpory.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Repositpory.pdb
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Core.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Core.pdb
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.csproj.AssemblyReference.cache
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.AssemblyInfoInputs.cache
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.AssemblyInfo.cs
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.csproj.CoreCompileInputs.cache
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G0.9686550A.Up2Date
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/refint/Store.G04.Repositpory.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.pdb
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/ref/Store.G04.Repositpory.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Repositpory.deps.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Repositpory.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Repositpory.pdb
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Core.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/bin/Debug/net8.0/Store.G04.Core.pdb
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.csproj.AssemblyReference.cache
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.GeneratedMSBuildEditorConfig.editorconfig
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.AssemblyInfoInputs.cache
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.AssemblyInfo.cs
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.csproj.CoreCompileInputs.cache
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G0.9686550A.Up2Date
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/refint/Store.G04.Repositpory.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/Store.G04.Repositpory.pdb
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.Repositpory/obj/Debug/net8.0/ref/Store.G04.Repositpory.dll

@@ -1,0 +1,564 @@
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/appsettings.Development.json
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/appsettings.json
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.exe
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.deps.json
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.runtimeconfig.json
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.pdb
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Core.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Repositpory.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Service.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Service.pdb
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Core.pdb
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Repositpory.pdb
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.csproj.AssemblyReference.cache
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.AssemblyInfoInputs.cache
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.AssemblyInfo.cs
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.csproj.CoreCompileInputs.cache
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.build.json
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.development.json
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets/msbuild.Store.G04.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets/msbuild.build.Store.G04.APIs.props
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Store.G04.APIs.props
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Store.G04.APIs.props
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.pack.json
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/scopedcss/bundle/Store.G04.APIs.styles.css
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G0.CBDFE1F8.Up2Date
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/refint/Store.G04.APIs.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.pdb
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.genruntimeconfig.cache
+D:/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/ref/Store.G04.APIs.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Azure.Core.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Azure.Identity.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.ClientModel.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Formats.Asn1.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.IO.Pipelines.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Memory.Data.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Text.Json.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Humanizer.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.CodeDom.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/AutoMapper.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.staticwebassets.runtime.json
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Pipelines.Sockets.Unofficial.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/StackExchange.Redis.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.WebEncoders.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Newtonsoft.Json.dll
+D:/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Stripe.net.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/appsettings.json
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.staticwebassets.runtime.json
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.staticwebassets.endpoints.json
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.exe
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.deps.json
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.runtimeconfig.json
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.pdb
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/AutoMapper.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Humanizer.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.WebEncoders.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Pipelines.Sockets.Unofficial.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/StackExchange.Redis.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Stripe.net.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.ClientModel.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Formats.Asn1.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Core.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Repositpory.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Service.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Service.pdb
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Core.pdb
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Repositpory.pdb
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.csproj.AssemblyReference.cache
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.AssemblyInfoInputs.cache
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.AssemblyInfo.cs
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.csproj.CoreCompileInputs.cache
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/scopedcss/bundle/Store.G04.APIs.styles.css
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets/msbuild.Store.G04.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets/msbuild.Store.G04.APIs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets/msbuild.build.Store.G04.APIs.props
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Store.G04.APIs.props
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Store.G04.APIs.props
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G0.CBDFE1F8.Up2Date
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/refint/Store.G04.APIs.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.pdb
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.genruntimeconfig.cache
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/ref/Store.G04.APIs.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/MailKit.dll
+C:/Users/MOHAMMED NAGEH/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/MimeKit.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/appsettings.Development.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/appsettings.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.staticwebassets.runtime.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.staticwebassets.endpoints.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.deps.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.runtimeconfig.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.APIs.pdb
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/AutoMapper.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Azure.Core.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Azure.Identity.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Humanizer.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/MailKit.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Extensions.WebEncoders.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/MimeKit.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Pipelines.Sockets.Unofficial.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/StackExchange.Redis.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Stripe.net.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.ClientModel.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.CodeDom.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Formats.Asn1.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Memory.Data.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/System.Text.Json.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Core.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Repositpory.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Service.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Service.pdb
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Core.pdb
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/bin/Debug/net8.0/Store.G04.Repositpory.pdb
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.csproj.AssemblyReference.cache
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/rpswa.dswa.cache.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.GeneratedMSBuildEditorConfig.editorconfig
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.AssemblyInfoInputs.cache
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.AssemblyInfo.cs
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.csproj.CoreCompileInputs.cache
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.MvcApplicationPartsAssemblyInfo.cs
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.MvcApplicationPartsAssemblyInfo.cache
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/scopedcss/bundle/Store.G04.APIs.styles.css
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.build.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.build.json.cache
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.development.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G0.CBDFE1F8.Up2Date
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/refint/Store.G04.APIs.dll
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.pdb
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/Store.G04.APIs.genruntimeconfig.cache
+/home/m-seddik/Downloads/Trecoo/Trecoo/Store.G04/Store.G04.APIs/obj/Debug/net8.0/ref/Store.G04.APIs.dll
